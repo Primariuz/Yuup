@@ -1,2 +1,2 @@
-# Yuup
-my first time creating a repo
+# First Repoooo
+# To improve is to change.
